@@ -1,2 +1,2 @@
 # QueensTechLab
-QueensTechLab様課題用リポジトリ
+QueensTechLab課題用リポジトリ
